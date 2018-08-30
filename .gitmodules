@@ -1,0 +1,6 @@
+[submodule "projects/docmanga"]
+	path = projects/docmanga
+	url = https://github.com/heroddaji/docmanga
+[submodule "projects/surprise_deep"]
+	path = projects/surprise_deep
+	url = https://github.com/heroddaji/SurpriseDeep
